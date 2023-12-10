@@ -4,6 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bluePrimary">#5094FF</color>
     <color name="blueSecondary">#1758FF</color>
-    <color name="yellow">#FFB945</color>
-    <color name="grey">#EFEFF0</color>
+    <color name="textPrimary">#121212</color>
+    <color name="textSecondary">#6F7789</color>
+    <color name="yellowOrange">#FFB945</color>
+    <color name="yellowLight">#FCD240</color>
+    <color name="red">#E04238</color>
 </resources>
