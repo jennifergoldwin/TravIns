@@ -36,12 +36,14 @@
         android:hint="Enter Email / Phone Number"
         android:background="@drawable/bg_white_rounded"
         android:padding="10dp"
+        android:elevation="8dp"
         android:layout_marginBottom="16dp"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Password"
+        android:elevation="8dp"
         android:drawableEnd="@drawable/ic_eye"
         android:drawableTint="@color/bluePrimary"
         android:background="@drawable/bg_white_rounded"

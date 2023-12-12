@@ -9,4 +9,6 @@
     <color name="yellowOrange">#FFB945</color>
     <color name="yellowLight">#FCD240</color>
     <color name="red">#E04238</color>
+    <color name="grey">#6F7789</color>
+    <color name="light_grey">#EFEFF0</color>
 </resources>

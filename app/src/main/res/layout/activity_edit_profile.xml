@@ -52,6 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Type here"
+                android:elevation="8dp"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
         </LinearLayout>
@@ -70,6 +71,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Type here"
+                android:elevation="8dp"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
         </LinearLayout>
@@ -88,6 +90,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Select here"
+                android:elevation="8dp"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
         </LinearLayout>
@@ -106,6 +109,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="dd/mm/yyyy"
+                android:elevation="8dp"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
         </LinearLayout>
@@ -124,6 +128,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Type here"
+                android:elevation="8dp"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
         </LinearLayout>
@@ -142,6 +147,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Type here"
+                android:elevation="8dp"
                 android:minLines="4"
                 android:background="@drawable/bg_white_rounded"
                 android:padding="10dp"/>
